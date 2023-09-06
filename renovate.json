@@ -1,4 +1,5 @@
 {
+  "extends": [ ":prHourlyLimitNone" ],
   "hostRules": [
     {
       "hostType": "npm",
