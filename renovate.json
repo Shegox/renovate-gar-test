@@ -1,7 +1,7 @@
 {
     "hostRules": [
         {
-            "hostTpe": "npm",
+            "hostType": "npm",
             "matchHost": "europe-west1-npm.pkg.dev",
             "username": "_json_key_base64",
             "encrypted": {
